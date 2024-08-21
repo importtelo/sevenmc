@@ -127,7 +127,7 @@ export default function Page() {
             </span>
             <span className="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded">
               {isNaN(grades[av]) ? (
-                <>NOTA &ge; {missingGrade}</>
+                <>NOTA &ge; {Number(missingGrade).toFixed(2)}</>
               ) : (
                 <>ATRIBUIDA</>
               )}
