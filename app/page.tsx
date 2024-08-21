@@ -91,7 +91,7 @@ export default function Page() {
   return (
     <main className="flex max-w-md mx-auto min-h-screen flex-col items-center justify-between p-24">
       <h1 className="flex mb-4 text-4xl h-auto font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl">
-        Seven&nbsp;
+        7MC&nbsp;
         {Number(missingGrade) > 10 ? (
           <span className="underline underline-offset-3 decoration-8 decoration-red-600">
             {currentMedia.toFixed(2)}
