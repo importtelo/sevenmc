@@ -96,7 +96,7 @@ export default function Page() {
           <span className="underline underline-offset-3 decoration-8 decoration-red-600">
             {currentMedia.toFixed(2)}
           </span>
-        ) : Number(missingGrade) <= 0 ? (
+        ) : (Number(missingGrade) <= 0 || currentMedia >= 7) ? (
           <span className="underline underline-offset-3 decoration-8 decoration-green-600">
             {currentMedia.toFixed(2)}
           </span>
