@@ -79,11 +79,11 @@ export default function Page() {
     }
     return grade >= 7 ? (
       <span className="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded">
-        {grade}
+        {grade.toFixed(2)}
       </span>
     ) : (
       <span className="bg-red-100 text-red-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded">
-        {grade}
+        {grade.toFixed(2)}
       </span>
     );
   };
@@ -127,7 +127,7 @@ export default function Page() {
             </span>
             <span className="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded">
               {isNaN(grades[av]) ? (
-                <>NOTA &ge; {Number(missingGrade).toFixed(2)}</>
+                <>NOTA &ge; {missingGrade}</>
               ) : (
                 <>ATRIBUIDA</>
               )}
