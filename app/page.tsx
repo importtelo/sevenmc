@@ -91,8 +91,8 @@ export default function Page() {
 
   return (
     <main className="flex max-w-md mx-auto min-h-screen flex-col items-center justify-between p-24">
-      <h1 className="flex mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl">
-        Seven{" "}
+      <h1 className="flex mb-4 text-4xl h-auto font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl">
+        7MC&nbsp;
         {Number(missingGrade) > 10 || currentMedia < global ? (
           <span className="underline underline-offset-3 decoration-8 decoration-red-600">
             {currentMedia.toFixed(2)}
@@ -122,7 +122,7 @@ export default function Page() {
           <label className="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 rtl:peer-focus:translate-x-1/4 peer-focus:text-blue-600 peer-focus:dark:text-blue-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">
             Avaliação {index + 1} {index === 3 ? "- Objetiva" : ""}
           </label>
-          <p className="mt-2 text-sm text-gray-500">
+          <div className="mt-2 text-sm text-gray-500">
             <span className="bg-gray-100 text-gray-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded">
               Peso {weight[av]}
             </span>
@@ -134,7 +134,7 @@ export default function Page() {
               )}
             </span>
             {renderGradeStatus(grades[av])}
-          </p>
+          </div>
         </div>
       ))}
     </main>
