@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "slug": "como-fazer-inscricao-curso",
+    "question": "Como faço para me inscrever em um curso?",
+    "answer": "Para se inscrever em um curso, siga os passos abaixo:\n\n- Acesse a página do curso desejado\n- Clique no botão 'Inscrever-se'\n- Preencha o formulário com seus dados pessoais\n- Escolha a forma de pagamento\n- Confirme sua inscrição\n\nApós a confirmação do pagamento, você receberá um e-mail com as instruções de acesso à plataforma.",
+    "tags": ["inscrição", "curso", "matrícula", "cadastro"],
+    "categories": ["Geral", "Cursos"],
+    "images": [
+      {
+        "url": "/placeholder.svg?height=300&width=500",
+        "alt": "Tela de inscrição no curso"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 2,
+    "slug": "recuperar-senha",
+    "question": "Como posso recuperar minha senha?",
+    "answer": "Para recuperar sua senha, acesse a página de login e clique em 'Esqueci minha senha'. Você receberá um e-mail com instruções para criar uma nova senha.Se você não receber o e-mail em alguns minutos, verifique sua pasta de spam ou entre em contato com nosso suporte.",
+    "tags": ["senha", "login", "acesso", "recuperação"],
+    "categories": ["Geral", "Conta"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 3,
+    "slug": "metodos-pagamento-aceitos",
+    "question": "Quais são os métodos de pagamento aceitos?",
+    "answer": "Aceitamos os seguintes métodos de pagamento:\n\n- Cartão de crédito (Visa, Mastercard, American Express)\n- Cartão de débito\n- Boleto bancário\n- PIX\n- PayPal\n\nPara pagamentos via boleto, o prazo para compensação é de até 3 dias úteis.",
+    "tags": ["pagamento", "cartão", "boleto", "pix"],
+    "categories": ["Geral", "Pagamentos"],
+    "images": [
+      {
+        "url": "/placeholder.svg?height=200&width=400",
+        "alt": "Métodos de pagamento aceitos"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 4,
+    "slug": "emitir-certificado",
+    "question": "Como faço para emitir meu certificado?",
+    "answer": "Para emitir seu certificado, você precisa ter concluído todas as atividades obrigatórias do curso com aproveitamento mínimo de 70%. Após cumprir esses requisitos, siga os passos:\n\n- Acesse a plataforma com seu login e senha\n- Navegue até o curso concluído\n- Clique na opção 'Certificado'\n- Selecione 'Emitir certificado'\n\nO certificado será gerado em formato PDF e estará disponível para download imediato.",
+    "tags": ["certificado", "conclusão", "diploma", "comprovante"],
+    "categories": ["Cursos", "Certificados"],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "title": "Tutorial: Como emitir seu certificado"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "politica-reembolso",
+    "question": "Qual é a política de reembolso?",
+    "answer": "Nossa política de reembolso garante devolução integral do valor pago em até 7 dias após a compra, desde que você não tenha acessado mais de 30% do conteúdo do curso.Para solicitar um reembolso:\n\n- Acesse sua conta\n- Vá para 'Meus cursos'\n- Selecione o curso que deseja cancelar\n- Clique em 'Solicitar reembolso'\n- Preencha o formulário de justificativa\n\nO valor será estornado no mesmo método de pagamento utilizado na compra em até 30 dias.",
+    "tags": ["reembolso", "devolução", "cancelamento", "estorno"],
+    "categories": ["Geral", "Pagamentos"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 6,
+    "slug": "acessar-provas-online",
+    "question": "Como faço para acessar as provas online?",
+    "answer": "Para acessar as provas online, siga estas etapas:\n\n- Faça login na plataforma\n- Acesse o curso em que está matriculado\n- Navegue até a seção 'Avaliações'\n- Selecione a prova que deseja realizar\n- Clique em 'Iniciar prova'\n\nImportante: Verifique os requisitos técnicos antes de iniciar a prova. Recomendamos usar um computador com conexão estável à internet. As provas têm tempo limitado e, uma vez iniciadas, não podem ser pausadas.",
+    "tags": ["prova", "avaliação", "teste", "exame"],
+    "categories": ["Cursos", "Avaliações"],
+    "images": [
+      {
+        "url": "/placeholder.svg?height=300&width=500",
+        "alt": "Tela de acesso às provas online"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 7,
+    "slug": "requisitos-tecnicos-aulas",
+    "question": "Quais são os requisitos técnicos para assistir às aulas?",
+    "answer": "Para uma experiência ideal ao assistir às aulas, recomendamos:\n\n- Conexão de internet: mínimo de 5 Mbps para streaming em HD\n- Navegadores: Chrome, Firefox, Safari ou Edge em suas versões mais recentes\n- Sistema operacional: Windows 10 ou superior, macOS 10.13 ou superior, Android 9 ou superior, iOS 13 ou superior\n- Hardware: 4GB de RAM ou mais\n- Plugins: JavaScript habilitado\n\nPara verificar a velocidade da sua internet, você pode usar serviços como [Speedtest](https://www.speedtest.net/).",
+    "tags": ["requisitos", "técnico", "sistema", "computador"],
+    "categories": ["Geral", "Suporte Técnico"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 8,
+    "slug": "obter-suporte-tecnico",
+    "question": "Como posso obter suporte técnico?",
+    "answer": "Oferecemos várias opções de suporte técnico:\n\n- Chat ao vivo: Disponível de segunda a sexta, das 8h às 20h, através do ícone de chat no canto inferior direito da plataforma\n- E-mail: Envie sua dúvida para suporte@exemplo.com.br com detalhes do problema\n- Central de ajuda: Acesse nossa base de conhecimento em ajuda.exemplo.com.br\n- Telefone: 0800 123 4567 (dias úteis, das 9h às 18h)\n\nPara agilizar o atendimento, tenha em mãos informações como seu nome completo, e-mail cadastrado e detalhes do problema enfrentado.",
+    "tags": ["suporte", "ajuda", "problema", "contato"],
+    "categories": ["Geral", "Suporte Técnico"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 9,
+    "slug": "sistema-notas-aprovacao",
+    "question": "Como funciona o sistema de notas e aprovação?",
+    "answer": "Nosso sistema de notas e aprovação funciona da seguinte forma:\n\n- As notas variam de 0 a 10\n- A média mínima para aprovação é 7,0\n- A composição da nota final geralmente inclui:\n- Atividades práticas: 30%\n- Participação em fóruns: 10%\n- Avaliações parciais: 20%\n- Prova final: 40%\n\nCaso você não atinja a média mínima, terá direito a uma prova de recuperação que pode substituir a menor nota obtida nas avaliações parciais.",
+    "tags": ["notas", "aprovação", "avaliação", "média"],
+    "categories": ["Cursos", "Avaliações"],
+    "images": [
+      {
+        "url": "/placeholder.svg?height=250&width=450",
+        "alt": "Sistema de composição de notas"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 10,
+    "slug": "transferir-turma-curso",
+    "question": "Como faço para transferir de turma ou curso?",
+    "answer": "Para solicitar transferência de turma ou curso, você deve:\n\n- Acessar sua conta na plataforma\n- Ir para 'Meus cursos'\n- Selecionar o curso atual\n- Clicar em 'Opções' e depois em 'Solicitar transferência'\n- Preencher o formulário indicando o motivo e a turma/curso de destino\n\nAs solicitações são analisadas em até 5 dias úteis. Observe que pode haver diferença de valores entre cursos, resultando em reembolso ou cobrança adicional. Transferências só podem ser solicitadas se você não tiver completado mais de 25% do curso atual.",
+    "tags": ["transferência", "mudança", "turma", "troca"],
+    "categories": ["Cursos", "Matrícula"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 11,
+    "slug": "acessar-conteudo-offline",
+    "question": "Posso acessar o conteúdo offline?",
+    "answer": "Sim, oferecemos opções para acesso offline ao conteúdo dos cursos:\n\n- Através do nosso aplicativo móvel (disponível para Android e iOS), você pode baixar aulas para assistir sem conexão com a internet\n- Materiais em PDF podem ser baixados e salvos em seu dispositivo\n- Alguns cursos oferecem a opção de baixar apostilas completas\n\nPara baixar conteúdo para acesso offline:\n\n- Acesse a aula ou material desejado\n- Procure o ícone de download\n- Selecione a qualidade do download (no caso de vídeos)\n- Aguarde o download ser concluído\n\nImportante: O conteúdo baixado fica disponível por 30 dias no aplicativo. Após esse período, é necessário se conectar à internet para renovar o acesso.",
+    "tags": ["offline", "download", "sem internet", "aplicativo"],
+    "categories": ["Geral", "Acesso ao Conteúdo"],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "title": "Tutorial: Como baixar conteúdo para acesso offline"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "atualizar-dados-cadastrais",
+    "question": "Como faço para atualizar meus dados cadastrais?",
+    "answer": "Para atualizar seus dados cadastrais:\n\n- Faça login na plataforma\n- Clique no seu perfil no canto superior direito\n- Selecione 'Minha conta' ou 'Configurações'\n- Acesse a seção 'Dados pessoais'\n- Atualize as informações necessárias\n- Clique em 'Salvar alterações'\n\nAlguns dados, como CPF e nome completo, podem exigir comprovação documental para alteração. Nestes casos, você será orientado a enviar os documentos necessários através da plataforma.",
+    "tags": ["cadastro", "dados", "perfil", "atualização"],
+    "categories": ["Geral", "Conta"],
+    "images": [
+      {
+        "url": "/placeholder.svg?height=300&width=500",
+        "alt": "Tela de atualização de dados cadastrais"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 13,
+    "slug": "pagamento-parcelado",
+    "question": "Como funciona o pagamento parcelado?",
+    "answer": "O pagamento parcelado está disponível para compras com cartão de crédito. Você pode parcelar em até 12 vezes, dependendo do valor do curso.\n\nInformações importantes sobre o parcelamento:\n- Parcelas mínimas de R$ 50,00\n- Parcelamento sem juros em até 6 vezes\n- Parcelamento com juros a partir da 7ª parcela (consulte as taxas no momento da compra)\n\nO valor total da compra e o número de parcelas são exibidos no checkout antes da finalização da compra.",
+    "tags": ["pagamento", "parcelamento", "cartão", "crédito"],
+    "categories": ["Pagamentos", "Financeiro"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 14,
+    "slug": "instalar-configurar-aplicativo",
+    "question": "Como instalar e configurar o aplicativo móvel?",
+    "answer": "Para instalar e configurar nosso aplicativo móvel, siga estas etapas:\n\n- Acesse a App Store (iOS) ou Google Play Store (Android)\n- Busque por 'Nome do Aplicativo'\n- Toque em 'Instalar' ou 'Obter'\n- Após a instalação, abra o aplicativo\n- Faça login com as mesmas credenciais que você usa no site\n- Permita as notificações quando solicitado para receber atualizações importantes\n\nSe encontrar problemas durante a instalação, verifique se seu dispositivo atende aos requisitos mínimos: iOS 13+ ou Android 8+.",
+    "tags": ["aplicativo", "mobile", "instalação", "configuração"],
+    "categories": ["Suporte Técnico", "Acesso ao Conteúdo"],
+    "images": [
+      {
+        "url": "/placeholder.svg?height=300&width=500",
+        "alt": "Tela do aplicativo móvel"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 15,
+    "slug": "solicitar-declaracao-matricula",
+    "question": "Como solicitar declaração de matrícula?",
+    "answer": "Para solicitar uma declaração de matrícula, siga os passos:\n\n- Acesse sua conta na plataforma\n- Vá para 'Meus cursos'\n- Selecione o curso para o qual deseja a declaração\n- Clique em 'Documentos' ou 'Solicitações'\n- Selecione 'Declaração de matrícula'\n- Confirme seus dados e finalize a solicitação\n\nA declaração será gerada automaticamente e disponibilizada para download em até 24 horas. Em alguns casos específicos, como cursos de pós-graduação, a declaração pode passar por uma verificação adicional, levando até 3 dias úteis.",
+    "tags": ["declaração", "matrícula", "documento", "comprovante"],
+    "categories": ["Cursos", "Documentos"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 16,
+    "slug": "resolver-problemas-reproducao-videos",
+    "question": "Como resolver problemas de reprodução de vídeos?",
+    "answer": "Se você está enfrentando problemas para reproduzir vídeos, tente estas soluções:\n\n- Verifique sua conexão com a internet (recomendamos pelo menos 5 Mbps)\n- Atualize seu navegador para a versão mais recente\n- Limpe o cache e os cookies do navegador\n- Desative extensões que possam estar interferindo na reprodução\n- Tente reduzir a qualidade do vídeo nas configurações do player\n- Reinicie seu dispositivo\n\nSe o problema persistir, tente acessar em outro navegador ou dispositivo. Caso nenhuma das soluções funcione, entre em contato com nosso suporte técnico.",
+    "tags": ["vídeo", "reprodução", "streaming", "buffer"],
+    "categories": ["Suporte Técnico", "Acesso ao Conteúdo"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 17,
+    "slug": "participar-foruns-discussao",
+    "question": "Como participar dos fóruns de discussão?",
+    "answer": "Para participar dos fóruns de discussão:\n\n- Acesse o curso em que está matriculado\n- Navegue até a seção 'Fóruns' ou 'Discussões'\n- Escolha o tópico que deseja participar ou clique em 'Novo tópico' para criar uma discussão\n- Ao criar um novo tópico, forneça um título claro e descreva sua dúvida ou comentário\n- Para responder a um tópico existente, clique em 'Responder' e digite sua mensagem\n\nLembre-se de seguir as regras de conduta da comunidade: seja respeitoso, evite linguagem ofensiva e mantenha as discussões relacionadas ao conteúdo do curso.",
+    "tags": ["fórum", "discussão", "comunidade", "dúvidas"],
+    "categories": ["Cursos", "Interação"],
+    "images": [
+      {
+        "url": "/placeholder.svg?height=250&width=450",
+        "alt": "Exemplo de fórum de discussão"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 18,
+    "slug": "agendar-sessao-mentoria",
+    "question": "Como agendar uma sessão de mentoria?",
+    "answer": "Para agendar uma sessão de mentoria com um de nossos especialistas:\n\n- Acesse sua conta na plataforma\n- Navegue até 'Mentorias' ou 'Suporte ao aluno'\n- Selecione o especialista com quem deseja ter a mentoria\n- Verifique a disponibilidade de horários no calendário\n- Selecione data e hora que melhor se adequem à sua agenda\n- Preencha o formulário indicando os tópicos que deseja discutir\n- Confirme o agendamento\n\nVocê receberá um e-mail de confirmação com o link para a sessão online. Recomendamos que se prepare com antecedência, listando suas dúvidas específicas para aproveitar ao máximo o tempo com o mentor.",
+    "tags": ["mentoria", "orientação", "especialista", "agendamento"],
+    "categories": ["Cursos", "Suporte"],
+    "images": [],
+    "videos": []
+  },
+  {
+    "id": 19,
+    "slug": "emitir-segunda-via-boleto",
+    "question": "Como emitir segunda via de boleto?",
+    "answer": "Para emitir a segunda via de um boleto:\n\n- Acesse sua conta na plataforma\n- Vá para 'Financeiro' ou 'Pagamentos'\n- Localize o pagamento pendente\n- Clique em 'Segunda via' ou 'Gerar novo boleto'\n\nImportante: Boletos vencidos serão atualizados automaticamente com novos valores, incluindo juros e multa por atraso. O novo boleto terá validade de 3 dias úteis. Caso tenha dificuldades, entre em contato com nosso setor financeiro.",
+    "tags": ["boleto", "pagamento", "segunda via", "vencimento"],
+    "categories": ["Pagamentos", "Financeiro"],
+    "images": [
+      {
+        "url": "/placeholder.svg?height=200&width=400",
+        "alt": "Tela de emissão de segunda via de boleto"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 20,
+    "slug": "suporte-problemas-acessibilidade",
+    "question": "Como obter suporte para problemas de acessibilidade?",
+    "answer": "Estamos comprometidos em tornar nossa plataforma acessível a todos os usuários. Se você estiver enfrentando problemas de acessibilidade:\n\n- Entre em contato com nossa equipe de suporte pelo e-mail acessibilidade@exemplo.com.br\n- Descreva detalhadamente o problema que está enfrentando\n- Informe qual tecnologia assistiva você utiliza (leitor de tela, software de ampliação, etc.)\n- Mencione o dispositivo e navegador que está usando\n\nNossa equipe especializada em acessibilidade irá analisar seu caso e trabalhar para resolver o problema o mais rápido possível. Também oferecemos recursos de acessibilidade como legendas em vídeos, transcrições de áudio e compatibilidade com leitores de tela.",
+    "tags": ["acessibilidade", "inclusão", "suporte", "assistência"],
+    "categories": ["Suporte Técnico", "Acessibilidade"],
+    "images": [],
+    "videos": []
+  }
+]
+
