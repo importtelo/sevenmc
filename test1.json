@@ -5,10 +5,36 @@
     "description": "O ambiente virtual de aprendizagem do aluno (AVA) pode ser acessado pelo computador ou por dispositivos moveis utilizando o aplicativo LeoApp",
     "question": "Como acessar meu Ambiente Virtual de Aprendizagem - AVA?",
     "answer": "O ambiente virtual de aprendizagem do aluno (AVA) pode ser acessado pelo computador ou por dispositivos moveis utilizando o aplicativo LeoApp:\n\n- Acesso Desktop:  [https://areasegura.uniasselvi.com.br/](https://areasegura.uniasselvi.com.br/)\n- LeoApp para Android: [https://play.google.com/store/apps/details?id=com.uniasselvi.leonardo&hl=pt_BR&pli=1](https://play.google.com/store/apps/details?id=com.uniasselvi.leonardo&hl=pt_BR&pli=1)\n- Leo App para IOS: [https://apps.apple.com/br/app/uniasselvi-leo-app/id1178957336](https://apps.apple.com/br/app/uniasselvi-leo-app/id1178957336)\n\n> Lembre-se: O primeiro acesso do aluno é realizado com o seu CPF e a senha é sua data de nascimento.",
-    "tags": ["acesso", "ava", "aplicativo", "leoapp"],
-    "categories": ["Geral", "Suporte Técnico"],
+    "tags": [
+      "acesso",
+      "ava",
+      "aplicativo",
+      "leoapp"
+    ],
+    "categories": [
+      "Geral",
+      "Suporte Técnico"
+    ],
     "images": [],
+    "videos": []
+  },
+  {
+    "id": 2,
+    "slug": "dinamica-de-ensino-flex",
+    "description": "Na UNIASSELVI o aluno tem acesso a sua Trilha de Aprendizagem. É uma plataforma que oferece recursos didáticos interativos e dinâmicos para auxiliar",
+    "question": "Como funciona a dinâmica de ensino Flex?",
+    "answer": "Na UNIASSELVI o aluno tem acesso a sua Trilha de Aprendizagem. É uma plataforma que oferece recursos didáticos interativos e dinâmicos para auxiliar os alunos no processo de aprendizagem acadêmica. É é uma estrutura que organiza e guia o processo de ensino, apresentando uma sequência de atividades e recursos para que os alunos atinjam objetivos específicos.  Dentro do seu aplicativo você tem também seu livro digital que entra para te aprofundar ainda mais no seu conteúdo.\n\nUma vez na semana você tem o seu encontro ao vivo com o tutor, ele te possibilita ter a experiência de um EAD de verdade. Os encontros ao vivo com o tutor da Uniasselvi servem para: \n\n- Orientar os alunos\n- Esclarecer dúvidas sobre a disciplina\n- Acompanhar o desenvolvimento acadêmico dos alunos\n- Prestar suporte acadêmico    \n\nApesar da participação nos encontros não ser obrigatório, é imprescindível que o aluno participe para que possa sanar as duvidas que irão surgindo durante o seu processo de aprendizagem. A aula ao vivo com o seu tutor é complementar ao seu conteúdo, ou seja, o tutor reforça o conteúdo já apresentado na trilha de aprendizagem e no livro digital, destacando os principais pontos de atenção sobre sua matéria, tirando qualquer duvida que os alunos venham a ter e também auxiliando na construção de trabalhos acadêmicos caso a matéria exija. \n\nDessa forma, o aluno precisa ver a aula ao vivo uma vez na semana, e no restante da semana ele se organiza para estudar sua trilha de aprendizagem interativa, de acordo com o seu tempo e seus horários. ",
+    "tags": [
+      "flex",
+      "ava",
+      "cursos",
+      "ead"
+    ],
+    "categories": [
+      "Geral",
+      "Cursos"
+    ],
+    "imagens": [],
     "videos": []
   }
 ]
-
